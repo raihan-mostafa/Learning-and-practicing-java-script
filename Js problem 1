@@ -1,4 +1,4 @@
 // Problem 1: take an integer (last digit of your ID) as input and print the next integer of it.
-let num = 6; 
+let num = 9; 
 let nextNum = num + 1; 
 console.log("The next integer is:", nextNum);
